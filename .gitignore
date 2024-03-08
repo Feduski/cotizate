@@ -1,0 +1,11 @@
+/env 
+*.env
+cotizate/.env
+cotizate/cotizate/settings.py
+*.env
+__pycache__/
+*.pyc
+db.sqlite3
+env/
+media/
+venv/
